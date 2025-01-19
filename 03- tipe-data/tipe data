@@ -1,2 +1,28 @@
 setiap tipe data memilik limit atau maximal nilai yang bisa di tampung 
+Di C++, ada beberapa tipe data dasar (primitive data types). Berikut penjelasannya:
 
+Integer (Bilangan Bulat)
+int: untuk bilangan bulat (misal: -1, 0, 1, 2)
+short: integer dengan rentang lebih kecil
+long: integer dengan rentang lebih besar
+unsigned: untuk bilangan bulat non-negatif
+
+Floating-point (Bilangan Desimal)
+float: presisi tunggal (7 digit desimal)
+double: presisi ganda (15 digit desimal)
+long double: presisi lebih tinggi
+
+
+Character (Karakter)
+char: untuk menyimpan satu karakter (misal: 'A', '1', '@')
+
+Boolean
+bool: untuk nilai logika true atau false
+
+Void
+void: menandakan tidak ada nilai/tipe data
+
+wchar_t
+untuk karakter wide-character (mendukung lebih banyak karakter internasional)
+
+Masing-masing tipe data ini memiliki ukuran memori dan rentang nilai yang berbeda. 
