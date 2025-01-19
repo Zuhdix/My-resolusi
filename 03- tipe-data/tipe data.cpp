@@ -20,7 +20,7 @@ int main(){
 	bool g = true; // true/false
 
 	cout << a << endl;
-	cout << sizeof(a) << " byte" << endl;
+	cout << sizeof(a) << " byte" << endl; // digunakan untuk melihat berapa byte tipe data tertentu, misal int 4 byte x 8 = 32
 	cout << numeric_limits<unsigned int>::max() << endl; // ini adalah cara untuk melihat max dari tipe data tertentu 
 	cout << numeric_limits<unsigned int>::min() << endl;
 	cin.get();
