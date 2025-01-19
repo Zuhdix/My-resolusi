@@ -5,8 +5,8 @@ using namespace std;
 int main(){
 
 	// bilangan bulat
-	unsigned int a = 5; // 32-bit >> setiap tipe data memiliki max limit
-	long b = 6;
+	unsigned int a = 5; // 32-bit >> unsigned digunakan untuk tidak bertanda >> tapi nilai int nya 0 sampai max biasa X2
+	long b = 6;	// >> setiap tipe data memiliki max limit
 	short c = 7;
 
 	// bilangan decimal
