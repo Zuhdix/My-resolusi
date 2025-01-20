@@ -4,9 +4,9 @@ using namespace std;
 
 int main(){
 
-	int a = 6;
+	int a = 6; // salah satu variabel harus menggunakan float untuk menampilkan koma contoh 6 jadi float
 	int b = 4;
-	int hasil;
+	int hasil; // hasil juga harus dirubah ke float agar muncul komanya, karena hasil adalah tahap akhir sebuah operasi aritmatika
 	// operatornya +, -, *, /, %
 	// penjumlahan
 	hasil = a + b;
