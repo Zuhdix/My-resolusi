@@ -20,6 +20,8 @@ int main()
 	cout << ++b << endl; // tambah 1 kemudian print ( 1 + 5 = 6) langsung
 	cout << b << endl;
 
+	// untuk decrement tinggal ganti + dengan - segampang itu cuy
+
 
 
 	cin.get();
