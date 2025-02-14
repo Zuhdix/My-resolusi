@@ -10,8 +10,9 @@ int main()
 	int b = 5;
 
 	// postincrement
+	// dinamakan postkarena ++ setelah a dan berlaku sebaliknya (preincrement)
 	cout << a << endl;
-	cout << a++ << endl;
+	cout << a++ << endl; // (a + 1)
 	cout << a << endl << endl;
 
 	// preincrement
