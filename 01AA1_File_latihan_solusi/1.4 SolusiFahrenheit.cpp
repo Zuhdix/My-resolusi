@@ -3,12 +3,12 @@ using namespace std;
 
 int main() {
 
-	double fahrenheit{};
-	cout << " Masukkan suhu fahrenheit: ";
-	cin >> fahrenheit;
+	cout << "fahrenheit: ";
+	int fahrenheit;
+	cin  >> fahrenheit;
 
-	double celsius{ (fahrenheit - 32)/ 1.8}; // rumus dari video
-	cout << " Suhu dalam Celsius: " << celsius << '\n';
+	double celsius = (fahrenheit - 32) / 1.8;
+	cout << "Celsius: " << celsius << endl;
 
 	return 0;
 }
