@@ -1,5 +1,8 @@
 Tipe Data umum
 
+boolean 1 byte (true/false)
+char    1 byte (karakter)
+
 Tipe Data bilangan bulat
 short    2 byte
 int      4 byte
