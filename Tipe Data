@@ -1,0 +1,17 @@
+Tipe Data umum
+
+Tipe Data bilangan bulat
+short    2 byte
+int      4 byte
+long     4 byte(sama menurut mosh)
+long long 8 byte
+
+
+
+
+
+// ukuran float dan double berbeda
+Tipe Data bilangan desimal
+float         4 byte
+double        4 byte
+long double   8 byte
