@@ -14,6 +14,7 @@ void printDouble(int value)
 	std::cout << value << " Double is " << value * 2 << '\n';
 }
 
+
 int main()
 {
 	int num{ getValueFromUser() }; // meminta user memasukkan nilai
