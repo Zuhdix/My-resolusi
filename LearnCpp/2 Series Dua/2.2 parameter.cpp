@@ -23,3 +23,8 @@ int main()
 
 	return 0;
 }
+
+/*Program meminta input dari pengguna lewat getValueFromUser(),
+lalu menyimpannya ke variabel num. Nilai num kemudian dikirim ke fungsi printDouble,
+yang mencetak nilai tersebut dan hasil perkaliannya dengan 2.
+*/
