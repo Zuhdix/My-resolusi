@@ -19,7 +19,7 @@ int main()
 {
 	int num{ getValueFromUser() }; // meminta user memasukkan nilai
 
-	printDouble(num); // nilai disalin ke num trus dijalankan ke fungsi printDouble
+	printDouble(num);  // nilai disalin ke num trus dijalankan ke fungsi printDouble
 
 	return 0;
 }
