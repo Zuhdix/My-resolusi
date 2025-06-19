@@ -21,5 +21,4 @@ int main()
 	printDouble(num); // nilai disalin ke num trus dijalankan ke fungsi printDouble
 
 	return 0;
-
 }
