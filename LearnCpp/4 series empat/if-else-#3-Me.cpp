@@ -12,7 +12,7 @@ int main()
 {
 	std::cout << "How tall are you (cm)\n";
 
-	int x{};
+	double x{};
 	std::cin >> x;
 	
 	if (isAllowedToTakeFunRide(x))
